@@ -8,7 +8,7 @@ A regular user of a project tracker that I manage once wrote to me:
 
 ```text
 One of my goals in life is to, at least once, be able to write a GH
-issue that you will not have the need to rename. 
+issue that you will not have the need to rename.
 :)
 ```
 
@@ -20,19 +20,20 @@ people on different sides of the fence understand issue trackers very
 differently and I thought it might be useful to try explaining it all
 the way through from the side of software development.
 
-## Image a world...
+## Imagine a world...
 
-To try and keep this abstract, let's image that we work at a company
+To try and keep this abstract, let's imagine that we work at a company
 making an online video game. This imaginary company does all of the
 things that you'd imagine that an imaginary game company would do:
 produce and maintain several games, have an account system, etc.
 Also, at this company, there is a division of labor: there are workers
-who are non-technical users/testers and there are workers who create
-and fix the games. One of the things that the former group of users
-does is report issues about various games to a central tracker, where
-the technical side tries to use that information to apply fixes and
-create improvements, all while trying to advance the software
-according to some external roadmap. All pretty standard fare.
+who are "non-technical" users/testers and there are workers who
+directly create and fix the games. One of the things that the former
+group of users does as part of their duties is report issues about
+various games to a central tracker, where the "technical" side tries
+to use that information to apply fixes and create improvements, all
+while trying to advance the software according to some internal
+roadmap. All pretty standard fare.
 
 ## The anatomy of an issue without issues
 
@@ -56,7 +57,7 @@ Body:
 When playing and starting from level one from the start screen, Mario
 progresses through the level; after passing the first Mushroom, if Mario
 touches the ?-brick, there is a chance that the Mario will lose a life.
-This seems to happen about one in every fives tries (see attached
+This seems to happen about one in every five tries (see attached
 video), and does not happen if Mario has not jumped. This does not
 happen if Mario starts from a save point after level one.
 Mario should be able to touch all bricks at any time without affecting
@@ -105,10 +106,11 @@ the issue harder to find in the future, and would have to be
 rewritten.
 
 **Meta**. Given the unhelpful, but possibly dire, title, I'm probably
-very worried about this issue. We know from the "good" writing that,
-while serious, may not be a complete showstopper. The user (possibly
-venting their frustration) may have added some processing cost to
-triaging this item. The thought process may be like:
+very worried about this issue. We know from the information in the
+body of the ticket that, while serious, this issue may not be a
+complete showstopper. The user (possibly venting their frustration)
+may have added some processing cost to triaging this item. The
+developer thought process may be like:
 
 Is it possible on this user's machine nothing really works at all?
 We are close to a release and that could be a big problem. I'm going
@@ -156,15 +158,14 @@ go out tomorrow, so sacrifices will be made) and solid development.
 
 ## Just how am I supposed to write the follow-up to the user?
 
-While issues as confounding as the one above are rare, I have had
-actual examples of issues very much like this in trackers. I think
-some may represent at some level a lack of understanding of how the
-tracker mechanism is used and viewed on the other side. In some cases,
-I think that the user may be more interested in venting frustration
-(which is understandable) and getting somebody to "fix it" than in
-spending effort on helping to remedy the situation. It is important to
-keep in mind that effort for collaboration/engagement is very
-important in public projects.
+While issues as confounding as the one above are rare, I have had to
+triage tickets very much like this. I think some may represent at some
+level a lack of understanding of how the tracker mechanism is used and
+viewed on the other side. In some cases, I think that the user may be
+more interested in venting frustration (which is understandable) and
+getting somebody to "fix it" than in spending effort on helping to
+remedy the situation. It is important to keep in mind that effort for
+collaboration/engagement is very important in public projects.
 
 For GO, we overload the trackers at some level and use them as a
 feedback forms, notebooks, and participation tools for the community,
