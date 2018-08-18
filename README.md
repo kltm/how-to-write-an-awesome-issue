@@ -264,8 +264,8 @@ specifics:
   unnoticed in the software development process. You may be describing
   something that nobody has seen or even thought about before, and
   without sufficient context, may be hard to understand or reproduce,
-  even from the people who made the software. It's always good to give
-  as much information as possible, including links and background
+  even from the people who work on the project. It's always good to
+  give as much information as possible, including links and background
   context.
 * *What was that again?*<br /> From the description, how long would the
   reporter think a stranger would take to reproduce the issue? The
