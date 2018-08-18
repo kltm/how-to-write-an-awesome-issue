@@ -235,7 +235,7 @@ Ideal ticket (which happily includes a PR, foot massage, and a gift
 card:), there are a few broad things to keep in mind beyond any
 specifics:
 
-* *Who, what, where, when, why: 5Ws.* Does the ticket include all of
+* *Who, what, where, when, why: 5Ws.*<br /> Does the ticket include all of
   these in some way?  Unless clear from the context, this may include
   the URL one visited/started from and/or the version of the
   software. "I die on level 1 sometimes touching a block" hits all of
@@ -244,11 +244,11 @@ specifics:
   something I knew about, my first question would be "when" does that
   happen and try and get a detailed description that I could use to
   reproduce it.
-* *Can I help you with that?* Sometimes, a ticket is not the
+* *Can I help you with that?*<br /> Sometimes, a ticket is not the
   appropriate avenue (it can depend, see below) or maybe the tracker
   is wrong. You might want to pick a different forum to get
   help. Maybe not. But it is worth a moment of care.
-* *Triaging from the Horn of Plenty.* While your issue is special to
+* *Triaging from the Horn of Plenty.*<br /> While your issue is special to
   you, it is balanced against literally hundreds of other tickets all
   clamoring for attention and relief in various projects, not even
   including the long-term project-wide roadmaps. In this environment,
@@ -258,7 +258,7 @@ specifics:
   will point something out in a way that I never considered before and
   it will start really bothering me as well; guess what issue gets
   fixed when I'm waiting in a cafe on Saturday afternoon?)
-* *Nobody creates a bug on purpose* Congratulations--you are an
+* *Nobody creates a bug on purpose*<br /> Congratulations--you are an
   explorer in a new land! Given trying to work through software
   roadmaps and keeping up with new issues and needs, a lot can go
   unnoticed in the software development process. You may be describing
@@ -267,14 +267,14 @@ specifics:
   even from the people who made the software. It's always good to give
   as much information as possible, including links and background
   context.
-* *What was that again?* From the description, how long would the
+* *What was that again?*<br /> From the description, how long would the
   reporter think a stranger would take to reproduce the issue? The
   reproduction/duplication of an issue is, fundamentally, the most
   important thing. From there, everything else can be filled out. If
   the reporter can spend an additional minute to make the developer
   triage a half-hour easier, that is a huge help and likely /very/
   cost effective for a project overall.
-* *Software development is economics* Related to the above, especially
+* *Software development is economics*<br /> Related to the above, especially
   in smaller endeavors, time and money are always severely
   limited. With that in mind, what I'm about to say is *not* strictly
   true, but it may be a good model to have when creating a ticket:
@@ -285,26 +285,28 @@ specifics:
   prioritizing, changing trackers, making the issue searchable,
   looking up and adding references to related issues, adding
   contextual notes, ballparking the time, etc.
+  <br />
   I am *not* saying that tickets should not be created, but rather that
   they are created mindfully and try to give as many of those given 15
   minutes back over to dealing with the underlying issue, rather than
   trying to recreate what was intended after the fact.
-* *Like butter* Finally, and more personally, there are the small
-  things that may I do to tickets to make them feel more at home--to
-  reduce my cognitive overhead in dealing with them. While a user may
-  only see a ticket twice--at creation and (maybe) resolution--I may
-  look over it, on the title or body level, dozens of times,
-  constantly editing and reshuffling as new information comes to
-  light, priorities shift, or roadmaps are restructured. To make that
-  process easier on myself, I try to make as smooth reading as
-  possible. This may be "fixing" language so that it better conforms
-  to the way I think about "location" and "frequency" in a project, or
-  even changing a preposition from "in" to "on", as I sometimes use
-  the former for the internal code of a page (html/js/css) and the
-  latter for the rendering of the page. It's more clear to me and I'm
-  just trying to lower my overhead, it has nothing to do necessarily
-  with the quality or statement of the original ticket; as my
-  understanding of an issue changes, so probably will the title.
+* *Like butter*<br /> Finally, and more personally, there are the
+  small things that may I do to tickets to make them feel more at
+  home--to reduce my cognitive overhead in dealing with them. While a
+  user may only see a ticket twice--at creation and (maybe)
+  resolution--I may look over it, on the title or body level, dozens
+  of times, constantly editing and reshuffling as new information
+  comes to light, priorities shift, or roadmaps are restructured. To
+  make that process easier on myself, I try to make as smooth reading
+  as possible. This may be "fixing" language so that it better
+  conforms to the way I think about "location" and "frequency" in a
+  project, or even changing a preposition from "in" to "on", as I
+  sometimes use the former for the internal code of a page
+  (html/js/css) and the latter for the rendering of the page. It's
+  more clear to me and I'm just trying to lower my overhead, it has
+  nothing to do necessarily with the quality or statement of the
+  original ticket; as my understanding of an issue changes, so
+  probably will the title.
 
 <!-- ## Future -->
 
