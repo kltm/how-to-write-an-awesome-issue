@@ -248,7 +248,7 @@ specifics:
   appropriate avenue (it can depend, see below) or maybe the tracker
   is wrong. You might want to pick a different forum to get
   help. Maybe not. But it is worth a moment of care.
-* *Triaging from the Horn of Plenty.*<br /> While your issue is special to
+* *Triaging from the Horn of Plenty*<br /> While your issue is special to
   you, it is balanced against literally hundreds of other tickets all
   clamoring for attention and relief in various projects, not even
   including the long-term project-wide roadmaps. In this environment,
