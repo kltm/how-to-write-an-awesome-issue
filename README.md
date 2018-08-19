@@ -61,12 +61,12 @@ tracker is to be used as part of a development stack, certain rules or
 norms should be followed to allow as much specific history as possible
 to be preserved with the code.
 
-For the GO, we overload the trackers at some level and use them as a
-feedback forms, notebooks, and participation tools for the community,
-as well as actual issue trackers. However, for the trackers to be
-effective as development tools at the end of it all, some trackers
-need to be the middle and long-term memory for the people on the
-"fixing" side, in addition to sorting, reporting, and planning
+For our projects, we overload the trackers at some level and use them
+as a feedback forms, notebooks, and participation tools for the
+community, as well as actual issue trackers. However, for the trackers
+to be effective as development tools at the end of it all, some
+trackers need to be the middle and long-term memory for the people on
+the "fixing" side, in addition to sorting, reporting, and planning
 tools. (For the latter, GitHub Project kanban, Gitter, e-mail, and the
 wiki are also there for some of these; YMMV.)
 
@@ -85,11 +85,10 @@ should ideally contain *what is*, what *should be*,and the steps to
 *reproduce* the issues from scratch for the target audience (the
 developers), as well as as much associated *context* as feasible.
 
-In the GO trackers, there is often associated metadata in the form of
-tags. A common case is that there are tags that fill the rolls of:
-*wish*, *irritant*, *affects usability*, or *makes unusable* (on the
-Noctua and AmiGO trackers, this is the enhancement, A, B, and C
-tags). The larger context is derived from the tracker itself.
+In our project trackers, there is often associated metadata in the
+form of tags. A common case is that there are tags that fill the rolls
+of: *wish*, *irritant*, *affects usability*, or *makes unusable* The
+larger context is derived from the tracker itself.
 
 To help illustrate the use of these points, let's look at a "good"
 ticket and a "not-so-good" ticket, both based on the same problem.
