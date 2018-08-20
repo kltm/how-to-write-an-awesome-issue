@@ -356,8 +356,5 @@ A ticket body should contain:
 
 
 Above all, keep in mind that the main purpose of ticket is to
-communicate experience and history for the intended audience.
-
-## Afterwards
-
-Above all: be happy having issues, sometimes they're all we have!
+communicate experience and history for the intended audience through
+time--issues are sometimes all we have!
