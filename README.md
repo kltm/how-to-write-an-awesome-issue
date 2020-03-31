@@ -170,7 +170,7 @@ magnitude, or even what is going on at the most basic level from
 reading the title. This can make the issue harder to find in the
 future, and would have to be rewritten.
 
-**Meta**. Given the possibly dire, title, I may be very worried about
+**Meta**. Given the possibly dire title, I may be very worried about
 this issue and this tag dials that up. However, we know from the
 information in the body of the ticket that, while serious, this issue
 may not be a complete showstopper. The user (possibly venting their
