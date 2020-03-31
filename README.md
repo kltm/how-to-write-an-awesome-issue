@@ -1,7 +1,7 @@
 # How to write an awesome issue
 
 A short and informal guide on writing good issues in modern issue
-trackers, aimed at non-developers.
+trackers, aimed at non-developers writing bug reports.
 
 ## What is this?
 
