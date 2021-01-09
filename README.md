@@ -80,7 +80,7 @@ and interact with a tracker?
 Heading out with that train of thought, how does one write a
 good/useful issue that will stand the test of time? A good rule of
 thumb is that a ticket title should at least contain: *frequency*,
-*location*, and an *problem, action, or outcome*. A ticket body itself
+*location*, and a *problem, action, or outcome*. A ticket body itself
 should ideally contain *what is*, what *should be*,and the steps to
 *reproduce* the issues from scratch for the target audience (the
 developers), as well as as much associated *context* as feasible.
@@ -157,7 +157,7 @@ Body:
 Help! Sometimes mario is dying. And the link for account?
 ```
 
-This contrast here should hopefully be apparently, but it may be
+This contrast here should hopefully be apparent, but it may be
 useful to break down some of the things that are not optimal here, and
 why, field by field:
 
