@@ -15,7 +15,7 @@ issue that you will not have the need to rename.
 
 This got me thinking a little about what it is that I do automatically
 when I triage an issue in an issue tracker like GitHub, and the
-meaning of issue/ticket systems in general. No doubt personality
+meaning of issue/ticket systems in general. No doubt, personality
 quirk, nesting instinct, and some holdover from a past life all play a
 part. However, I think that people on different sides of the
 development fence understand issue trackers very differently and I
