@@ -338,7 +338,7 @@ expensive and difficult, good tracker use can make things more
 efficient and easier, as well as improving communications between
 software users and software creators.
 
-It is general good practice narrow a ticket to be as specific as
+It is general good practice to make a ticket as specific as
 possible and to give enough context so that it is easily repeatable.
 
 A ticket title should contain:
