@@ -1,4 +1,4 @@
-# How to write an awesome issue
+# How to Write an Awesome Issue
 
 A short and informal guide on writing good issues in modern issue
 trackers, aimed at non-developers writing bug reports.
